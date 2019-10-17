@@ -1,2 +1,2 @@
-this is my first try to use git..
-nothing changes!
+this is my second try to use git..
+changes!
